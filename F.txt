@@ -3,3 +3,5 @@ questo file deve restare untouched perché fa da riferimento
 =======
 apporto
 >>>>>>> ab7d7d1f62f5dd96a1a294044ffb570af2c6c76f
+
+queste modifiche devono apparire solo nel branch VerificaF
